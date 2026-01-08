@@ -16,6 +16,10 @@
 	display: none;
 }
 
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 p span.i4{
 	padding-left: 4em;
 	text-indent: -1em;
