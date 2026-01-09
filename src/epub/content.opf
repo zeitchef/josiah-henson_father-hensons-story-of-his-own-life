@@ -93,11 +93,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-    <dc:contributor id="writer-of-preface">Harriet Beecher Stowe</dc:contributor>
-    <meta property="file-as" refines="#writer-of-preface">Stowe, Harriet Beecher</meta>
-    <meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-preface">https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe</meta>
-    <meta property="se:url.authority.nacoaf" refines="#writer-of-preface">http://id.loc.gov/authorities/names/n79109131</meta>
-    <meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="writer-of-preface">Harriet Beecher Stowe</dc:contributor>
+		<meta property="file-as" refines="#writer-of-preface">Stowe, Harriet Beecher</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-preface">https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe</meta>
+		<meta property="se:url.authority.nacoaf" refines="#writer-of-preface">http://id.loc.gov/authorities/names/n79109131</meta>
+		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
